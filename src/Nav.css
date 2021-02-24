@@ -1,0 +1,23 @@
+.navbar {
+    background-color: rgb(4, 215, 223);
+    padding: 1rem;
+    text-align: center;
+}
+
+.navbar a {
+    margin: 20px;
+    color: white;
+    display: inline-block;
+}
+
+.navbar a.active {
+    color: rgb(133, 133, 133);
+}
+
+.navbar-home {
+    float: left;
+    font-size: 30px;
+    text-decoration: none;
+    position: relative;
+    bottom: 10px;
+}

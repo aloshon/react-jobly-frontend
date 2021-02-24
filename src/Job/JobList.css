@@ -1,0 +1,17 @@
+.joblist-form {
+    width: 90%;
+}
+
+.joblist-form-button {
+    bottom: 53px;
+    float: right;
+    margin-right: 40px;
+    position: relative;
+    display: inline;
+    background-color: rgb(4, 215, 223);
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 13px;
+}
